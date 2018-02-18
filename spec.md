@@ -14,6 +14,12 @@ In Phase 1, we developed a system to process inventory transactions and customer
 * to implement and test dynamic collections
 * to enhance existing code to reflect additional requirements (software maintenance)
 
+## Starting Point
+
+This repository includes the outline of a new UI class, `NewUI`, in the src directory. You will want to add your code from your first phase for the Warehouse and the Item. If you have concerns about your phase 1 code, please e-mail me.
+
+The data directory includes two files, one of which includes example items and another which includes example transactions. The purpose of these files are explained below, along with the new functionality you need.
+
 ## Updated Functional Requirements
 
 1. The Warehouse class
